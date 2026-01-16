@@ -35,3 +35,9 @@ Customer distribution is highly concentrated in a small number of states, sugges
 - Saved visualization image for portfolio use
 
 ## Project Structure
+
+## Next Steps
+- Integrate order-level and sales datasets for end-to-end analysis
+- Analyze revenue trends and delivery performance across regions
+- Extend the analysis to customer behavior and repeat purchase patterns
+
