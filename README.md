@@ -34,21 +34,9 @@ Customer distribution is highly concentrated in a small number of states, sugges
 - Clean, reproducible Jupyter Notebook
 - Saved visualization image for portfolio use
 
-## Project Structure
-olist-customer-geography-analysis/
-├── data/
-│ └── raw/
-│ └── olist_customers_dataset.csv
-├── notebooks/
-│ └── olist_visual_analysis.ipynb
-├── visuals/
-│ └── charts/
-│ └── top_10_states_unique_customers.png
-├── README.md
-└── requirements.txt
-
 ## Next Steps
 - Integrate order-level and sales datasets for end-to-end analysis
 - Analyze revenue trends and delivery performance across regions
 - Extend the analysis to customer behavior and repeat purchase patterns
+
 
